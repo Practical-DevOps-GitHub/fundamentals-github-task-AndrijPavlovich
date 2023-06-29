@@ -7,3 +7,6 @@
 # Assign ownership to softservedata for all files within a directory
 /.github/tests/ @softservedata
 /.github/workflows/ @softservedata
+
+/.github/tests/ @online-marathon
+/.github/workflows/ @online-marathon
