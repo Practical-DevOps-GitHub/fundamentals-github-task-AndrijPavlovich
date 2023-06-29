@@ -1,0 +1,12 @@
+# CODEOWNERS file
+
+# Assign ownership to AndrijPavlovich for specific files
+/github/pull_request_template.md @AndrijPavlovich
+
+
+# Assign ownership to softservedata for all files within a directory
+/.github/tests/ @softservedata
+/.github/workflows/ @softservedata
+
+/.github/tests/ @online-marathon
+/.github/workflows/ @online-marathon
